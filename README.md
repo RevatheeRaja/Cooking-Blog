@@ -30,7 +30,7 @@ In this project, a comprehensive stack of technologies was employed to develop a
 - **Mongoose:**
   - Incorporated Mongoose, an elegant MongoDB object modeling tool for Node.js, to simplify interactions with the MongoDB database.
 
-
+![Project Logo](public/img/heroGit.jpg)
 ## Contact Information
 - **E mail:**
 rrevathee@gmail.com
