@@ -3,9 +3,6 @@
 ## Description
 A Full Stack Recipe Blog, providing users with the capability to both explore and contribute to a diverse collection of recipes. The platform features functionalities such as viewing trending recipes, searching for specific dishes, and selecting a random recipe for the day, creating an engaging and interactive culinary experience for users.
 
-## Contact Information
-rrevathee@gmail.com
-
 ## Technologies Used
 In this project, a comprehensive stack of technologies was employed to develop a feature-rich recipe blog. Here's an overview of the key languages, frameworks, and tools utilized:
 
@@ -33,4 +30,10 @@ In this project, a comprehensive stack of technologies was employed to develop a
 - **Mongoose:**
   - Incorporated Mongoose, an elegant MongoDB object modeling tool for Node.js, to simplify interactions with the MongoDB database.
 
-![Project Logo](public/img/heroGit.jpg)
+
+## Contact Information
+- **E mail:**
+rrevathee@gmail.com
+- **LinkedIn:**
+https://www.linkedin.com/in/revathee-rajagopal-572692282/
+
